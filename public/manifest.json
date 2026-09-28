@@ -1,0 +1,9 @@
+{
+  "short_name": "StegaVault",
+  "name": "StegaVault — Image & Audio Steganography Suite",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0b0f14",
+  "background_color": "#0b0f14"
+}
